@@ -1,10 +1,11 @@
-# cpp-ostream-istream-example
+# C++ ostream/istream Example
 
-A small C++ program to exercise istream and ostream >>, &lt;&lt; operator and overriding * operator to generate a array list automaticly.
+A small C++ program to exercise istream and ostream `>>`, `<<` operator and overriding `*` operator to generate a **Array list** automaticly.
 
 ### Structure
-- Sheet (A array of Pill)
+
 - Pill (name and price)
+- Sheet (A array of Pill)
 
 ### Question
 
@@ -17,4 +18,20 @@ int main() {
 	S = P *10;
 	cout << S << endl;
 }
+```
+
+### Output
+
+```
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+Penicillin,100
+total = 1000
 ```
