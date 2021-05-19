@@ -1,6 +1,6 @@
 # C++ ostream/istream Example
 
-A small C++ program to exercise istream and ostream `>>`, `<<` operator and overriding `*` operator to generate a **Array list** automaticly.
+A small C++ program to exercise istream and ostream `>>`, `<<` operator and overriding `*` operator to generate a **Array list** automatically.
 
 ### Structure
 
